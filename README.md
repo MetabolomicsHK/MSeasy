@@ -1,4 +1,6 @@
 MSeasy
 ======
 
-MSeasy R package maintenance tracking
+MSeasy R package 
+
+https://sites.google.com/site/rpackagemseasy/
